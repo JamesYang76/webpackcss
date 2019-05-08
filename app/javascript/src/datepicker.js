@@ -1,6 +1,4 @@
 import Pikaday from "pikaday";
-import 'pikaday/css/pikaday.css'
-
 import Moment from "moment";
 
 

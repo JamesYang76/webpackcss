@@ -16,6 +16,8 @@
 // const imagePath = (name) => images(name, true)
 
 console.log('Hello World from Webpacker');
+
+import "./stylesheet.scss";
 import "../src/datepicker.js";
 
 
