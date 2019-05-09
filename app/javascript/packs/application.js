@@ -17,7 +17,7 @@
 
 console.log('Hello World from Webpacker');
 
-import "./stylesheet.scss";
+import "../src/stylesheets.scss";
 import "../src/datepicker.js";
 
 
